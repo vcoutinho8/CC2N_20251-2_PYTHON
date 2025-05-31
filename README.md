@@ -16,22 +16,6 @@ Os materiais cobrem diferentes níveis e abordagens de programação com Python.
 ### Python Avançado
 - Programação orientada a objetos (POO)
 
-### Módulos e Bibliotecas
-- PySide6 (Interface Gráfica com Qt 6)
-- Selenium (Automação de testes)
-- Django (Sites e APIs)
-
-### Banco de Dados Relacionais
-- SQLite3
-- MySQL
-- MariaDB
-
-### Testes Automatizados
-- TDD (Test-Driven Development) básico
-
-### Padrões de Projeto
-- Design Patterns (GoF)
-
 ### Extras
 - Expressões Regulares
 - HTML5 e CSS3
@@ -39,5 +23,4 @@ Os materiais cobrem diferentes níveis e abordagens de programação com Python.
 
 ---
 
-Este projeto representa meu progresso prático com a linguagem Python e algumas das principais ferramentas utilizadas no desenvolvimento moderno.
 
